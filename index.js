@@ -15,7 +15,6 @@ function yourAnimal() {
   return animal
 }
 
-console.log(yourAnimal())
 
 function add2(n) {
 
